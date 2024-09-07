@@ -4,5 +4,6 @@
 
 1. `npm init` : initialize npm for local project by asking questions
 1. `npm init -y` or `npm init --yes` : initializing npm for local project with difault values
+1. `npm i <packageName>` or `npm install <packageName>`: install a dependency(package) for project  
 
 ## Notes : 
