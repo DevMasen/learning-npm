@@ -2,8 +2,7 @@
 
 ## Commands :
 
-1. `npm init` : initialize npm for local project by asking questions
-1. `npm init -y` or `npm init --yes` : initializing npm for local project with difault values
-1. `npm i <packageName>` or `npm install <packageName>`: install a dependency(package) for project  
-
-## Notes : 
+1. `npm init` : initialize npm for local project by asking questions and create package.json
+1. `npm init -y` or `npm init --yes` : initializing npm for local project with difault values and create package.json
+1. `npm i <packageName>` or `npm install <packageName>`: install a dependency(package) for project and add it to node_modules and package.json 
+1. `npm uninstall <packageName>` : uninstall a dependency(package) from project and remove it from node_modules and package.json

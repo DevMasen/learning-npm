@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/DevMasen/learning-npm#readme",
   "dependencies": {
-    "react": "^18.3.1",
-    "tailwind": "^4.0.0"
+    "react": "^18.3.1"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.10"
