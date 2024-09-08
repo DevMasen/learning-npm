@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/DevMasen/learning-npm#readme",
   "dependencies": {
-    "loadash": "^1.0.0"
+    "lodash": "^4.17.21"
   }
 }
