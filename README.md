@@ -22,7 +22,8 @@
 1. `tsc <typescriptFile> -w` : transport and watch a typescript file into javascript
 1. `npm update` : update packages to the last version toward one of these character before version in package.json (^ : patch and minor , ~ : patch only , * : major and minor and patch)
 1. `npx parcel <index.html>` : build a webapp with parcel
-
+1. `npm audit` : scan packages for find vulnerabilities of them
+1. `npm audit fix` : fix all vulnerabilities in packages
 
 
 ## Notes :
