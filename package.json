@@ -1,0 +1,22 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "npm important commands and notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMasen/learning-npm.git"
+  },
+  "author": "DevMasen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevMasen/learning-npm/issues"
+  },
+  "homepage": "https://github.com/DevMasen/learning-npm#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
