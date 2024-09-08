@@ -13,3 +13,5 @@
 1. `npm uninstall <packageName> -g` : uninstall a package globaly
 1. `npm list` : log all dependencies to last depth
 1. `npm list --depth <N>` : log dependencies in a specific depth (\<N>)
+1. `npm [config] set init-<initial-property> "initialValue"` : set a default value for npm package.json properties
+1. `npm [config] get init-<initial-property>` : get a property of package.json
