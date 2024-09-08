@@ -16,5 +16,8 @@
   "homepage": "https://github.com/DevMasen/learning-npm#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
   }
 }

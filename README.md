@@ -21,3 +21,9 @@
 1. `tsc <typescriptFile>` : transport a typescript file into javascript file
 1. `tsc <typescriptFile> -w` : transport and watch a typescript file into javascript
 1. `npm update` : update packages to the last version toward one of these character before version in package.json (^ : patch and minor , ~ : patch only , * : major and minor and patch)
+1. `npx parcel <index.html>` : build a webapp with parcel
+
+
+
+## Notes :
+- #### npx(Node Package Execute) : run package that have not been installed on project
