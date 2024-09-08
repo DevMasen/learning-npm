@@ -16,3 +16,7 @@
 1. `npm list --depth <N>` : log dependencies in a specific depth (\<N>)
 1. `npm [config] set init-<initial-property> "initialValue"` : set a default value for npm package.json properties
 1. `npm [config] get init-<initial-property>` : get a property of package.json
+1. `npm run <customScript>` : run a custom script that wrote in package.json "scripts"
+1. `node <javascriptFileName>` : run a javascript file with node.js
+1. `tsc <typescriptFile>` : transport a typescript file into javascript file
+1. `tsc <typescriptFile> -w` : transport and watch a typescript file into javascript
